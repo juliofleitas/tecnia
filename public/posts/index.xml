@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on TECNIA!</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on TECNIA!</description>
+    <generator>Hugo -- 0.134.1</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 13 Sep 2024 22:51:19 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía Completa Sobre Git</title>
+      <link>http://localhost:1313/posts/gu%C3%ADa-completa-sobre-git/</link>
+      <pubDate>Fri, 13 Sep 2024 22:51:19 -0300</pubDate>
+      <guid>http://localhost:1313/posts/gu%C3%ADa-completa-sobre-git/</guid>
+      <description>&lt;h2 id=&#34;qué-es-git&#34;&gt;¿Qué es Git?&lt;/h2&gt;
+&lt;p&gt;Git es un &lt;strong&gt;sistema de control de versiones&lt;/strong&gt; distribuido que permite a los desarrolladores gestionar y hacer seguimiento de los cambios en el código de sus proyectos. Fue creado por &lt;strong&gt;Linus Torvalds&lt;/strong&gt; en 2005, y es una herramienta esencial para la colaboración en proyectos de software.&lt;/p&gt;
+&lt;h3 id=&#34;ventajas-de-git&#34;&gt;Ventajas de Git&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Control de versiones&lt;/strong&gt;: Permite deshacer cambios y regresar a versiones anteriores del código.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Colaboración&lt;/strong&gt;: Facilita el trabajo en equipo al permitir que varias personas trabajen en diferentes ramas de un proyecto al mismo tiempo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Distribuido&lt;/strong&gt;: Cada desarrollador tiene una copia completa del historial del proyecto en su máquina local.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;comandos-esenciales-de-git&#34;&gt;Comandos Esenciales de Git&lt;/h2&gt;
+&lt;p&gt;Aquí te mostramos algunos de los comandos más utilizados en Git:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

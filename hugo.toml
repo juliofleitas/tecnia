@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-es'
+title = 'TECNIA!'
+theme = 'PaperMod'
